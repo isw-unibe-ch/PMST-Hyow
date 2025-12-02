@@ -1,0 +1,47 @@
+person,analysed_phon_form,paradigm_tag
+FUT.AFF,,
+1SG,k a ⁵ + Σ + a ⁵ ʔ j,default
+1DUI,i ¹ + n i ⁵ + Σ + a ⁵ ʔ j,default
+1DUE,k i ⁵ + n̥ i ⁵ ʔ + Σ + a ⁵ ʔ j,default
+1PLI,i ¹ + n i ⁵ + Σ + a ⁵ ʔ j,default
+1PLE,k i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,default
+2SG,n a ⁵ + Σ + a ⁵ ʔ j,default
+2DU,n i ⁵ + n̥ i ⁵ ʔ + Σ + a ⁵ ʔ j,default
+2PL,n i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,default
+3SG,a ⁵ + Σ + a ⁵ ʔ j,default
+3DU,i ⁵ + n̥ i ⁵ ʔ + Σ + a ⁵ ʔ j,default
+3PL,i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,default
+FUT.NEG,,
+1SG,Σ + n̥ ɔ ⁵ ʔ + ŋ a ⁵¹,default
+1DUI,Σ + n̥ ɔ ⁵ ʔ + p u ⁵¹,default
+1DUE,Σ + n̥ ɔ ⁵ ʔ + n̥ i ⁵ ʔ + ŋ a ⁵¹,default
+2SG,Σ + n̥ ɔ ⁵ ʔ + t i ⁵¹,default
+2DU,Σ + n̥ ɔ ⁵ ʔ + n̥ i ⁵ ʔ + t i ⁵¹,default
+2PL,Σ + n̥ ɔ ⁵ ʔ + ts u ⁵¹,default
+3SG,Σ + n̥ ɔ ⁵ ʔ,default
+3DU,Σ + n̥ ɔ ⁵ ʔ + h ɘ ⁵ ʔ j,default
+3PL,Σ + n̥ ɔ ⁵ ʔ + u ⁵,default
+NFUT.AFF,,
+1SG,k a ⁵ + Σ,default
+1DUI,i ¹ + n i ⁵ + Σ,default
+1DUE,k i ⁵ + n̥ i ⁵ ʔ + Σ,default
+1PLI,i ¹ + n i ⁵ + Σ,default
+1PLE,k i ⁵ + n i ⁵ + Σ,default
+2SG,n a ⁵ + Σ,default
+2DU,n i ⁵ + n̥ i ⁵ ʔ + Σ,default
+2PL,n i ⁵ + n i ⁵ + Σ,default
+3SG,a ⁵ + Σ,default
+3DU,i ⁵ + n̥ i ⁵ ʔ + Σ,default
+3PL,i ⁵ + n i ⁵ + Σ,default
+NFUT.NEG,,
+1SG,Σ + ŋ a ⁵¹,default
+1DUI,Σ + p u ⁵¹,default
+1DUE,Σ + n̥ i ⁵ ʔ + ŋ a ⁵¹,default
+1PLI,Σ + k ɔ ⁵¹,default
+1PLE,Σ + u ⁵ + ŋ a ⁵¹,default
+2SG,Σ + t i ⁵¹,default
+2DU,Σ + n̥ i ⁵ ʔ + t i ⁵¹,default
+2PL,Σ + ts u ⁵¹,default
+3SG,Σ + a ⁵ ʔ,default
+3DU,Σ + h ɘ ⁵ ʔ j,default
+3PL,Σ + u ⁵,default

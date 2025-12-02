@@ -1,0 +1,64 @@
+FUT.AFF,,,,,,,,,,
+A/O,1SG,1PLEXCL,1PLINCL,2SG,2DU,2PL,3SG,3DU,3PL,paradigm_tag
+1SG,,,,k i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,k i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,k i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,k a ⁵ + Σ + a ⁵ ʔ j,k a ⁵ + Σ + a ⁵ ʔ j,k a ⁵ + Σ + a ⁵ ʔ j,default
+1DUEXCL,,,,k i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,k i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,k i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,k i ⁵ + n̥ i ⁵ ʔ + Σ + a ⁵ ʔ j,k i ⁵ + n̥ i ⁵ ʔ + Σ + a ⁵ ʔ j,k i ⁵ + n̥ i ⁵ ʔ + Σ + a ⁵ ʔ j,default
+1DUINCL,,,,,,,i ¹ + n i ⁵ + Σ + a ⁵ ʔ j,i ¹ + n i ⁵ + Σ + a ⁵ ʔ j,i ¹ + n i ⁵ + Σ + a ⁵ ʔ j,default
+1PLEXCL,,,,k i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,k i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,k i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,k i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,k i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,k i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,default
+1PLINCL,,,,,,,i ¹ + n i ⁵ + Σ + a ⁵ ʔ j,i ¹ + n i ⁵ + Σ + a ⁵ ʔ j,i ¹ + n i ⁵ + Σ + a ⁵ ʔ j,default
+2SG,i ¹ + n i ⁵ + Σ + a ⁵ ʔ j,i ¹ + n i ⁵ + Σ + a ⁵ ʔ j,,,,,n a ⁵ + Σ + a ⁵ ʔ j,n a ⁵ + Σ + a ⁵ ʔ j,n a ⁵ + Σ + a ⁵ ʔ j,default
+2DU,i ¹ + n i ⁵ + Σ + a ⁵ ʔ j,i ¹ + n i ⁵ + Σ + a ⁵ ʔ j,,,,,n i ⁵ + n̥ i ⁵ ʔ + Σ + a ⁵ ʔ j,n i ⁵ + n̥ i ⁵ ʔ + Σ + a ⁵ ʔ j,n i ⁵ + n̥ i ⁵ ʔ + Σ + a ⁵ ʔ j,default
+2PL,i ¹ + n i ⁵ + Σ + a ⁵ ʔ j,i ¹ + n i ⁵ + Σ + a ⁵ ʔ j,,,,,n i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,n i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,n i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,default
+3SG,kʰ r ɔ ⁵¹ ŋ + a ⁵ + Σ + a ⁵ ʔ j,kʰ r ɔ ⁵¹ ŋ + a ⁵ + Σ + a ⁵ ʔ j,Σ + a ⁵ ʔ j,,,,,,,pragm_marked
+3SG,,,Σ + a ⁵ ʔ j,i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,a ⁵ + Σ + a ⁵ ʔ j,a ⁵ + Σ + a ⁵ ʔ j,a ⁵ + Σ + a ⁵ ʔ j,default
+3DU,i ¹ + n i ⁵ + Σ + a ⁵ ʔ j,i ¹ + n i ⁵ + Σ + a ⁵ ʔ j,Σ + a ⁵ ʔ j,i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,i ⁵ + n̥ i ⁵ ʔ + Σ + a ⁵ ʔ j,i ⁵ + n̥ i ⁵ ʔ + Σ + a ⁵ ʔ j,i ⁵ + n̥ i ⁵ ʔ + Σ + a ⁵ ʔ j,default
+3DU,,,kʰ r ɔ ⁵¹ ŋ + Σ + a ⁵ ʔ j,,,,,,,pragm_marked
+3PL,i ¹ + n i ⁵ + Σ + a ⁵ ʔ j,i ¹ + n i ⁵ + Σ + a ⁵ ʔ j,Σ + a ⁵ ʔ j,i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,i ⁵ + n i ⁵ + Σ + a ⁵ ʔ j,default
+3PL,,,kʰ r ɔ ⁵¹ ŋ + Σ + a ⁵ ʔ j,,,,,,,pragm_marked
+FUT.NEG,,,,,,,,,,
+A/O,1SG,1PLEXCL,1PLINCL,2SG,2DU,2PL,3SG,3DU,3PL,paradigm_tag
+1SG,,,,k i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + ŋ a ⁵¹,k i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + ŋ a ⁵¹,k i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + ŋ a ⁵¹,k a ⁵ + Σ + n̥ ɔ ⁵ ʔ + ŋ a ⁵¹,k a ⁵ + Σ + n̥ ɔ ⁵ ʔ + ŋ a ⁵¹,k a ⁵ + Σ + n̥ ɔ ⁵ ʔ + ŋ a ⁵¹,default
+1DUEXCL,,,,k i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + n̥ i ⁵ ʔ + ŋ a ⁵¹,k i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + n̥ i ⁵ ʔ + ŋ a ⁵¹,k i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + n̥ i ⁵ ʔ + ŋ a ⁵¹,k i ⁵ + n̥ i ⁵ ʔ + Σ + n̥ ɔ ⁵ ʔ + n̥ i ⁵ ʔ + ŋ a ⁵¹,k i ⁵ + n̥ i ⁵ ʔ + Σ + n̥ ɔ ⁵ ʔ + n̥ i ⁵ ʔ + ŋ a ⁵¹,k i ⁵ + n̥ i ⁵ ʔ + Σ + n̥ ɔ ⁵ ʔ + n̥ i ⁵ ʔ + ŋ a ⁵¹,default
+1DUINCL,,,,,,,i ¹ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + p u ⁵¹,i ¹ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + p u ⁵¹,i ¹ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + p u ⁵¹,default
+1PLEXCL,,,,k i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + u ⁵ + ŋ a ⁵¹,k i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + u ⁵ + ŋ a ⁵¹,k i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + u ⁵ + ŋ a ⁵¹,k i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + u ⁵ + ŋ a ⁵¹,k i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + u ⁵ + ŋ a ⁵¹,k i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + u ⁵ + ŋ a ⁵¹,default
+1PLINCL,,,,,,,i ¹ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + k ɔ ⁵¹,i ¹ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + k ɔ ⁵¹,i ¹ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + k ɔ ⁵¹,default
+2SG,i ¹ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + t i ⁵¹,i ¹ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + t i ⁵¹,,,,,n a ⁵ + Σ + n̥ ɔ ⁵ ʔ + t i ⁵¹,n a ⁵ + Σ + n̥ ɔ ⁵ ʔ + t i ⁵¹,n a ⁵ + Σ + n̥ ɔ ⁵ ʔ + t i ⁵¹,default
+2DU,i ¹ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + n̥ i ⁵ ʔ + t i ⁵¹,i ¹ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + n̥ i ⁵ ʔ + t i ⁵¹,,,,,n i ⁵ + n̥ i ⁵ ʔ + Σ + n̥ ɔ ⁵ ʔ + n̥ i ⁵ ʔ + t i ⁵¹,n i ⁵ + n̥ i ⁵ ʔ + Σ + n̥ ɔ ⁵ ʔ + n̥ i ⁵ ʔ + t i ⁵¹,n i ⁵ + n̥ i ⁵ ʔ + Σ + n̥ ɔ ⁵ ʔ + n̥ i ⁵ ʔ + t i ⁵¹,default
+2PL,i ¹ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + ts u ⁵¹,i ¹ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + ts u ⁵¹,,,,,n i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + ts u ⁵¹,n i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + ts u ⁵¹,n i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + ts u ⁵¹,default
+3SG,a ¹ + Σ + n̥ ɔ ⁵ ʔ,a ¹ + Σ + n̥ ɔ ⁵ ʔ,Σ + n̥ ɔ ⁵ ʔ,i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ,i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ,i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ,a ⁵ + Σ + n̥ ɔ ⁵ ʔ,a ⁵ + Σ + n̥ ɔ ⁵ ʔ,a ⁵ + Σ + n̥ ɔ ⁵ ʔ,default
+3SG,kʰ r ɔ ⁵¹ ŋ + a ⁵ + Σ + n̥ ɔ ⁵ ʔ,kʰ r ɔ ⁵¹ ŋ + a ⁵ + Σ + n̥ ɔ ⁵ ʔ,kʰ r ɔ ⁵¹ ŋ + Σ + n̥ ɔ ⁵ ʔ,,,,,,,pragm_marked
+3DU,i ¹ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + h ɘ ⁵ ʔ j,i ¹ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + h ɘ ⁵ ʔ j,Σ + n̥ ɔ ⁵ ʔ + h ɘ ⁵ ʔ j,i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + h ɘ ⁵ ʔ j,i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + h ɘ ⁵ ʔ j,i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + h ɘ ⁵ ʔ j,i ⁵ + n̥ i ⁵ ʔ + Σ + n̥ ɔ ⁵ ʔ + h ɘ ⁵ ʔ j,i ⁵ + n̥ i ⁵ ʔ + Σ + n̥ ɔ ⁵ ʔ + h ɘ ⁵ ʔ j,i ⁵ + n̥ i ⁵ ʔ + Σ + n̥ ɔ ⁵ ʔ + h ɘ ⁵ ʔ j,default
+3DU,,,kʰ r ɔ ⁵¹ ŋ + Σ + n̥ ɔ ⁵ ʔ + h ɘ ⁵ ʔ j,,,,,,,pragm_marked
+3PL,i ¹ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + u ⁵,i ¹ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + u ⁵,Σ + n̥ ɔ ⁵ ʔ + u ⁵,i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + u ⁵,i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + u ⁵,i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + u ⁵,i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + u ⁵,i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + u ⁵,i ⁵ + n i ⁵ + Σ + n̥ ɔ ⁵ ʔ + u ⁵,default
+3PL,,,kʰ r ɔ ⁵¹ ŋ + Σ + n̥ ɔ ⁵ ʔ + u ⁵,,,,,,,pragm_marked
+NFUT.AFF,,,,,,,,,,
+A/O,1SG,1PLEXCL,1PLINCL,2SG,2DU,2PL,3SG,3DU,3PL,paradigm_tag
+1SG,,,,k i ⁵ + n i ⁵ + Σ,k i ⁵ + n i ⁵ + Σ,k i ⁵ + n i ⁵ + Σ,k a ⁵ + Σ,k a ⁵ + Σ,k a ⁵ + Σ,default
+1DUEXCL,,,,k i ⁵ + n i ⁵ + Σ,k i ⁵ + n i ⁵ + Σ,k i ⁵ + n i ⁵ + Σ,k i ⁵ + n̥ i ⁵ ʔ + Σ,k i ⁵ + n̥ i ⁵ ʔ + Σ,k i ⁵ + n̥ i ⁵ ʔ + Σ,default
+1DUINCL,,,,,,,i ¹ + n i ⁵ + Σ,i ¹ + n i ⁵ + Σ,i ¹ + n i ⁵ + Σ,default
+1PLEXCL,,,,k i ⁵ + n i ⁵ + Σ,k i ⁵ + n i ⁵ + Σ,k i ⁵ + n i ⁵ + Σ,k i ⁵ + n i ⁵ + Σ,k i ⁵ + n i ⁵ + Σ,k i ⁵ + n i ⁵ + Σ,default
+1PLINCL,,,,,,,i ¹ + n i ⁵ + Σ,i ¹ + n i ⁵ + Σ,i ¹ + n i ⁵ + Σ,default
+2SG,i ¹ + n i ⁵ + Σ,i ¹ + n i ⁵ + Σ,,,,,n a ⁵ + Σ,n a ⁵ + Σ,n a ⁵ + Σ,default
+2DU,i ¹ + n i ⁵ + Σ,i ¹ + n i ⁵ + Σ,,,,,n i ⁵ + n̥ i ⁵ ʔ + Σ,n i ⁵ + n̥ i ⁵ ʔ + Σ,n i ⁵ + n̥ i ⁵ ʔ + Σ,default
+2PL,i ¹ + n i ⁵ + Σ,i ¹ + n i ⁵ + Σ,,,,,n i ⁵ + n i ⁵ + Σ,n i ⁵ + n i ⁵ + Σ,n i ⁵ + n i ⁵ + Σ,default
+3SG,kʰ r ɔ ⁵¹ ŋ + a ⁵ + Σ,kʰ r ɔ ⁵¹ ŋ + a ⁵ + Σ,kʰ r ɔ ⁵¹ ŋ + Σ,,,,,,,pragm_marked
+3SG,,,Σ,i ⁵ + n i ⁵ + Σ,i ⁵ + n i ⁵ + Σ,i ⁵ + n i ⁵ + Σ,a ⁵ + Σ,a ⁵ + Σ,a ⁵ + Σ,default
+3DU,i ¹ + n i ⁵ + Σ,i ¹ + n i ⁵ + Σ,Σ,i ⁵ + n i ⁵ + Σ,,i ⁵ + n i ⁵ + Σ,i ⁵ + n̥ i ⁵ ʔ + Σ,i ⁵ + n̥ i ⁵ ʔ + Σ,i ⁵ + n̥ i ⁵ ʔ + Σ,default
+3DU,,,kʰ r ɔ ⁵¹ ŋ + Σ,,,,,,,pragm_marked
+3PL,i ¹ + n i ⁵ + Σ,i ¹ + n i ⁵ + Σ,Σ,i ⁵ + n i ⁵ + Σ,i ⁵ + n i ⁵ + Σ,i ⁵ + n i ⁵ + Σ,i ⁵ + n i ⁵ + Σ,i ⁵ + n i ⁵ + Σ,i ⁵ + n i ⁵ + Σ,default
+3PL,,,kʰ r ɔ ⁵¹ ŋ + Σ,,,,,,,pragm_marked
+NFUT.NEG,,,,,,,,,,
+A/O,1SG,1PLEXCL,1PLINCL,2SG,2DU,2PL,3SG,3DU,3PL,paradigm_tag
+1SG,,,,k i ⁵ + n i ⁵ + Σ + ŋ a ⁵¹,k i ⁵ + n i ⁵ + Σ + ŋ a ⁵¹,k i ⁵ + n i ⁵ + Σ + ŋ a ⁵¹,k a ⁵ + Σ + ŋ a ⁵¹,k a ⁵ + Σ + ŋ a ⁵¹,k a ⁵ + Σ + ŋ a ⁵¹,default
+1DUEXCL,,,,k i ⁵ + n i ⁵ + Σ + n̥ i ⁵ ʔ + ŋ a ⁵¹,k i ⁵ + n i ⁵ + Σ + n̥ i ⁵ ʔ + ŋ a ⁵¹,k i ⁵ + n i ⁵ + Σ + n̥ i ⁵ ʔ + ŋ a ⁵¹,k i ⁵ + n̥ i ⁵ ʔ + Σ + n̥ i ⁵ ʔ + ŋ a ⁵¹,k i ⁵ + n̥ i ⁵ ʔ + Σ + n̥ i ⁵ ʔ + ŋ a ⁵¹,k i ⁵ + n̥ i ⁵ ʔ + Σ + n̥ i ⁵ ʔ + ŋ a ⁵¹,default
+1DUINCL,,,,,,,i ¹ + n i ⁵ + Σ + p u ⁵¹,i ¹ + n i ⁵ + Σ + p u ⁵¹,i ¹ + n i ⁵ + Σ + p u ⁵¹,default
+1PLEXCL,,,,k i ⁵ + n i ⁵ + Σ + u ⁵ + ŋ a ⁵¹,k i ⁵ + n i ⁵ + Σ + u ⁵ + ŋ a ⁵¹,k i ⁵ + n i ⁵ + Σ + u ⁵ + ŋ a ⁵¹,k i ⁵ + n i ⁵ + Σ + u ⁵ + ŋ a ⁵¹,k i ⁵ + n i ⁵ + Σ + u ⁵ + ŋ a ⁵¹,k i ⁵ + n i ⁵ + Σ + u ⁵ + ŋ a ⁵¹,default
+1PLINCL,,,,,,,i ¹ + n i ⁵ + Σ + k ɔ ⁵¹,i ¹ + n i ⁵ + Σ + k ɔ ⁵¹,i ¹ + n i ⁵ + Σ + k ɔ ⁵¹,default
+2SG,i ¹ + n i ⁵ + Σ + t i ⁵¹,i ¹ + n i ⁵ + Σ + t i ⁵¹,,,,,n a ⁵ + Σ + t i ⁵¹,n a ⁵ + Σ + t i ⁵¹,n a ⁵ + Σ + t i ⁵¹,default
+2DU,i ¹ + n i ⁵ + Σ + n̥ i ⁵ ʔ + t i ⁵¹,i ¹ + n i ⁵ + Σ + n̥ i ⁵ ʔ + t i ⁵¹,,,,,n i ⁵ + n̥ i ⁵ ʔ + Σ + n̥ i ⁵ ʔ + t i ⁵¹,n i ⁵ + n̥ i ⁵ ʔ + Σ + n̥ i ⁵ ʔ + t i ⁵¹,n i ⁵ + n̥ i ⁵ ʔ + Σ + n̥ i ⁵ ʔ,default
+2PL,i ¹ + n i ⁵ + Σ + ts u ⁵¹,i ¹ + n i ⁵ + Σ + ts u ⁵¹,,,,,n i ⁵ + n i ⁵ + Σ + ts u ⁵¹,n i ⁵ + n i ⁵ + Σ + ts u ⁵¹,n i ⁵ + n i ⁵ + Σ + ts u ⁵¹,default
+3SG,kʰ r ɔ ⁵¹ ŋ + a ⁵ + Σ + a ⁵ ʔ,kʰ r ɔ ⁵¹ ŋ + a ⁵ + Σ + a ⁵ ʔ,kʰ r ɔ ⁵¹ ŋ + Σ + a ⁵ ʔ,,,,,,,pragm_marked
+3SG,,,Σ + a ⁵ ʔ,i ⁵ + n i ⁵ + Σ + a ⁵ ʔ,i ⁵ + n i ⁵ + Σ + a ⁵ ʔ,i ⁵ + n i ⁵ + Σ + a ⁵ ʔ,a ⁵ + Σ + a ⁵ ʔ,a ⁵ + Σ + a ⁵ ʔ,a ⁵ + Σ + a ⁵ ʔ,default
+3DU,i ¹ + n i ⁵ + Σ + h ɘ ⁵ ʔ j,i ¹ + n i ⁵ + Σ + h ɘ ⁵ ʔ j,Σ + h ɘ ⁵ ʔ j,i ⁵ + n i ⁵ + Σ + h ɘ ⁵ ʔ j,i ⁵ + n i ⁵ + Σ + h ɘ ⁵ ʔ j,i ⁵ + n i ⁵ + Σ + h ɘ ⁵ ʔ j,i ⁵ + n̥ i ⁵ ʔ + Σ + h ɘ ⁵ ʔ j,i ⁵ + n̥ i ⁵ ʔ + Σ + h ɘ ⁵ ʔ j,i ⁵ + n̥ i ⁵ ʔ + Σ + h ɘ ⁵ ʔ j,default
+3DU,,,kʰ r ɔ ⁵¹ ŋ + Σ + h ɘ ⁵ ʔ j,,,,,,,pragm_marked
+3PL,i ¹ + n i ⁵ + Σ + u ⁵,i ¹ + n i ⁵ + Σ + u ⁵,Σ + u ⁵,i ⁵ + n i ⁵ + Σ + u ⁵,i ⁵ + n i ⁵ + Σ + u ⁵,i ⁵ + n i ⁵ + Σ + u ⁵,i ⁵ + n i ⁵ + Σ + u ⁵,i ⁵ + n i ⁵ + Σ + u ⁵,i ⁵ + n i ⁵ + Σ + u ⁵,default
+3PL,,,kʰ r ɔ ⁵¹ ŋ + Σ + u ⁵,,,,,,,pragm_marked

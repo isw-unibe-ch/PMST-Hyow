@@ -1,0 +1,13 @@
+value_id,label,feature,unimorph,language_id
+excl,exclusive,clusivity,EXCL,hyow
+incl,inclusive,clusivity,INCL,hyow
+du,dual,number,DU,hyow
+pl,plural,number,PL,hyow
+sg,singular,number,SG,hyow
+1,first person,person,1,hyow
+2,second person,person,2,hyow
+3,third person,person,3,hyow
+aff,affirmative,polarity,POS,hyow
+neg,negative,polarity,NEG,hyow
+fut,future,tense_aspect,FUT,hyow
+nfut,non-future,tense_aspect,,hyow
