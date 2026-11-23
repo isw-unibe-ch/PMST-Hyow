@@ -1,5 +1,5 @@
 tag_id,tag_column_name,comment,language_id
-default,paradigm_tag,"unmarked form (most general, most frequent, etc.) or form that has no other tag",hyow
-pragm_marked,paradigm_tag,pragmatically conditioned variation,hyow
-unspec_var,paradigm_tag,variant of (yet) unspecified distribution,hyow
-copy_v,phonanalysis_tag,form has a copy vowel (at least one morpheme has an underspecified vowel that surfaces as the same vowel found in the stem),hyow
+copy_v,analysis_tag,form has a copy vowel (at least one morpheme has an underspecified vowel that surfaces as the same vowel found in the stem),hyow
+optional_third,overabundance_tag,form does not contain a marker for third person (that is there in other forms with the same scenario),hyow
+pragm_marked,variants_tag,form is sociopragmatically marked,hyow
+unspecified,variants_tag,form is not used in special contexts,hyow
